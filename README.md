@@ -1,7 +1,7 @@
 ### Hello y'all!
 
 - 👀 Wannabe a Front End developer;
-- 📁Experience with: HTML, CSS, Javascript and React;
+- 📁Experience with: HTML, CSS, Javascript, React and Node;
 - ✏ I’m currently learning Javascript and React JS;
 - 💻 Looking for to work with Front End technologies;
 - 📫 How to reach me: damaziomp@gmail.com
@@ -19,4 +19,5 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
+  <img align="center" alt="node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 </div>
