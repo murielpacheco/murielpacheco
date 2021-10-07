@@ -2,7 +2,7 @@
 
 - 👀 Wannabe a Front End developer;
 - 📁Experience with: HTML, CSS, Javascript and React;
-- 🌱 I’m currently learning Javascript and React JS;
+- ✏ I’m currently learning Javascript and React JS;
 - 💻 Looking for to work with Front End technologies;
 - 📫 How to reach me: damaziomp@gmail.com
 
