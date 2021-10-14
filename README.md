@@ -1,9 +1,9 @@
 ### Hello y'all!
 
-- 👀 Wannabe a Front End developer;
+- 👀 Wannabe a Web Developer;
 - 📁Experience with: HTML, CSS, Javascript, React and Node;
 - ✏ I’m currently learning React and Next JS;
-- 💻 Looking for to work with Front End technologies;
+- 💻 Looking for to work with Full Stack technologies;
 - 📫 How to reach me: damaziomp@gmail.com
 
 <div align="center">
@@ -21,7 +21,3 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/sass/sass-original.svg">
 </div>
-  
-  <div> 
-  <a href="https://instagram.com/mrlpacheco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:damaziomp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
