@@ -4,7 +4,8 @@
 - 📁Experience with: HTML, CSS, Javascript, React and Node;
 - ✏ I’m currently learning React and Next JS;
 - 💻 Looking for to work with Full Stack technologies;
-- 📫 How to reach me: damaziomp@gmail.com
+- 📫 How to reach me: damaziomp@gmail.com;
+- 🐍 "Outwork everyone in the gym" - Kobe Bryant
 
 <div align="center">
   <a href="https://github.com/murielpacheco">
