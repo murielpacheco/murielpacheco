@@ -1,8 +1,8 @@
 ### Hello y'all!
 
-- 👀 Wannabe a Web Developer;
-- 📁Experience with: HTML, CSS, Javascript, React and Node;
-- ✏ I’m currently learning React and Node.js;
+- 👀 Web Developer;
+- 📁Experience with: HTML, CSS, Javascript, Node.js, React.js and Next.js;
+- ✏ Currently studying Next.js;
 - 💻 Looking for to work with Full Stack technologies;
 - 📫 How to reach me: damaziomp@gmail.com;
 - 🐍 "Outwork everyone in the gym" - Kobe Bryant
